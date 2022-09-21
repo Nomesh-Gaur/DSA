@@ -17,9 +17,9 @@ int main () {
  printf("%.9lf\n",D);
  
  return 0;
- 
+}
     
 
 
   
-}
+
